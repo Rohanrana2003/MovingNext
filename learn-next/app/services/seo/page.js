@@ -1,7 +1,7 @@
 export default function page() {
   return (
     <div>
-      <h1>SEO PAGE</h1>
+      <h2>SEO PAGE</h2>
     </div>
   );
 }
